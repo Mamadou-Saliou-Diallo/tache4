@@ -489,7 +489,7 @@ section{
     .p-footer, .p-pied{
         display: flex;
         justify-content: center;
-        padding: 3px;
+        padding: 5px;
         flex-wrap: wrap;
     }
     .img-footer{
@@ -521,7 +521,8 @@ section{
     }
     .p-pied1{
         display: flex;
-        font-size: 15px;
+        font-size: 10px;
+        padding: 5px;
     }
     .h2-pied{
         font-weight: bold;
