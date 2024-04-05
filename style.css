@@ -270,7 +270,7 @@ section{
         margin: 0;
         padding: 0;
         overflow-x: hidden;
-        overflow-y: hidden;
+        
     }
     .container{
         display: flex;
@@ -522,7 +522,7 @@ section{
     }
     .p-pied1{
         display: flex;
-        font-size: 10px;
+        font-size: 15px;
         padding: 5px;
     }
     .h2-pied{
